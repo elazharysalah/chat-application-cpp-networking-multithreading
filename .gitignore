@@ -1,0 +1,14 @@
+build/
+out/
+.vs/
+*.user
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+.aws/
+.ssh/
